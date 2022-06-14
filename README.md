@@ -35,4 +35,5 @@ Freelancer:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiwan-gharti&show_icons=true&locale=en&layout=compact" alt="jiwan-gharti" /></p>
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jiwan-gharti-8aab4319a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/jiwan-gharti-8aab4319a?trk=profile-badge">jiwan gharti</a></div>
+              
