@@ -1,38 +1,170 @@
-<h1 align="center">Hi 👋, I'm Jiwan Gharti</h1>
-<h3 align="center">A passionate Backend developer from Nepal</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiwan-gharti&label=Profile%20views&color=0e75b6&style=flat" alt="jiwan-gharti" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_jiwan_gharti_" target="blank"><img src="https://img.shields.io/twitter/follow/_jiwan_gharti_?logo=twitter&style=for-the-badge" alt="_jiwan_gharti_" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning , computer vision, Automation using RPA framework**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75604769/177918236-8b4b5b99-3368-469b-a72c-d39cf2dafa71.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/jiwan-gharti?tab=repositories](https://github.com/jiwan-gharti?tab=repositories)
 
-- 💬 Ask me about **Python, Django , Rest API, Robot Automation**
+
+### Hey 👋🏽, I'm ![Jiwan Gharti](https://jiwan-gharti.github.io/All-AI/)
+<p>
+    <a href="mailto:ghartijiwan@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <a href="https://twitter.com/_jiwan_gharti_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/jiwan-gharti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
+Hi, I'm  a Software Engineer Guy 🚀 from Nepal, currently, I'm a Python Developer and  Machine Learning, Computer Vision and Natural Language Processing enthusiastic👨‍💻. I have always had a passion for Programming. Python became my favorite language after using C, C++,Java, SQL etc. I have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use my well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy **Playing Outdoor Game** and **Traveling.**
+<br><br>That’s a brief of who I am and What I am looking for!
+
+### A bit deeper about myself. 
+
+I am algorithm lover. This sprouted because I am mainly interested in how things work the way they work. For example: If you give me an algorithm and you say that this works for a particular problem- my question would be how does it work? What’s the idea behind it? Why not some other way? What are the pros and cons of it? What was the approach that is worse than this? This thinking made to me successful as a programmer till now and enhanced my interest in algorithms.
+
+Besides, this interest in reasoning made me to develop curiosity in understanding how Machine Learning and Deep Learning models actually work. What is the model learning at each step? I want to explore this BlackBox which I thinks would pave a way to make the Deep Learning models better. 
+
+After from Software Engineer Graduate. I worked as a Software Engineer in IT Industry of Nepal.
+
+
+- 🔭 I’m **Mathematics, Statistics, Data Lover & Full Stack Python Developer**
+
+- 🌱 I’m currently learning **Deep Learning, NLP, Computer Vision, Object Detection Framework => TFOD2.X, YOLO-X, YOLO-R.**
+
+- 💬 Ask me about **Pyhton, Django, Django rest Framework, Automation(ROBOT Framework),Scraping, Machine Learning, Deep Learning, Computer Vision, Data Science.**
 
 - 📫 How to reach me **ghartijiwan@gmail.com**
 
-- ⚡ Fun fact **Traveller, Doing craziest stuffs**
+- ⚡ Reality:-> **Infinite is My Natural State**
+- :computer: **CODING CONVENTION THAT I FOLLOW:**
+  - APPLY LOGGING FOR EACH AND EVERY PIPELINES
+  - USE EXCEPTION HANDLING FOR PROPERLY CATCHING AND HANDLING EXCEPTION IN CODE
+  - INSTEAD OF USING NOTEBOOK I PREFER OOPS PROGRAMMING
+  - STRICTLY FOLLOW NAMING CONVENTION
+  - MODULARIZATION IN CODE
+  
+## 😜Here's a Joke for you:
+<img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_jiwan_gharti_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jiwan_gharti_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jiwan-gharti-8aab4319a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jiwan-gharti-8aab4319a/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/nawijitrahg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nawijitrahg" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jiwan.xetri.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jiwan.xetri.7" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_jiwan_gharti_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_jiwan_gharti_/" height="30" width="40" /></a>
-</p>
+<h3> 🛠 &nbsp;Tech Stack</h3>
+<br/>
+<center>
+<table>
+<tbody align="center">
+ <tr>
+   
+<td align="center" width="25%">
+<span><b><center>Python</center></b></span><br/> 
+<img height=75px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
 
+   
+<td align="center" width="30%">
+<span><b><center>OpenCV</center></b></span><br/>  
+<img height=75px src="https://img.icons8.com/color/2x/opencv.png"> 
+</td>
 
+<td align="center" width="25%">
+<span><b><center>PyTorch</center></b></span><br/> 
+<img height=75px src="https://pytorch.org/assets/images/pytorch-logo.png"> 
+</td>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-Freelancer:
-<a href='https://www.fiverr.com/jiwangharti'> Fiverr </a>
+<td align="center" width="25%">
+<span><b><center>Notebook</center></b></span><br/>  
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"> 
+</td>
+</tr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiwan-gharti&show_icons=true&locale=en&layout=compact" alt="jiwan-gharti" /></p>
+<tr> 
+<td align="center" width="25%">
+<span><b><center>Sklearn</center></b></span><br/> 
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"> 
+</td>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jiwan-gharti-8aab4319a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/jiwan-gharti-8aab4319a?trk=profile-badge">jiwan gharti</a></div>
+<td align="center" width="25%">
+<span><b><center>NumPy</center></b></span> <br/>
+<img height=75px src="https://cdn.worldvectorlogo.com/logos/numpy.svg"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Pandas</center></b></span> <br/>
+<img height=75px src="https://cdn-icons-png.flaticon.com/512/6485/6485718.png"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Matplotlib</center></b></span> <br/>
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"/>                             
+</td>
+
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<span><b><center>Tensorflow</center></b></span> <br/>
+<img height=75px src="https://miro.medium.com/max/957/0*69C0hxf9NluTCPVl.png">
+</td> 
+
+<td align="center" width="25%">
+<span><b><center>Keras</center></b></span> <br/>
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>MySQL</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Linux</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/color/344/linux--v1.png"/>
+</td>
+
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="25%">
+<span><b><center>Git</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+    
+<td align="center" width="25%">
+<span><b><center>AWS</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/color/344/amazon-web-services.png"> 
+</td>
+    
+<td align="center" width="25%">
+<span><b><center>Docker</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/color/344/docker.png"> 
+</td>
+ 
+<td align="center" width="25%">
+<span><b><center>Django</center></b></span> <br/>
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/640px-Django_logo.svg.png"> 
+</td>   
+</tr>
+
+<td align="center" width="25%">
+<span><b><center>PostgreSQL</center></b></span> <br/>
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"> 
+</td>   
+</tr>
+
+<td align="center" width="25%">
+<span><b><center>PostgreSQL</center></b></span> <br/>
+<img height=75px src="https://www.django-rest-framework.org/img/logo.png"> 
+</td>   
+</tr>
+
+<td align="center" width="25%">
+<span><b><center>PostgreSQL</center></b></span> <br/>
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/375px-Robot-framework-logo.png"> 
+</td>   
+</tr>
+
+</tbody>
+</table>
+
+![Jiwana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwan-gharti&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwan-gharti&langs_count=8&hide=jupyter%20notebook)](https://github.com/jiwan-gharti/github-readme-stats)
+
