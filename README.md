@@ -147,16 +147,14 @@ After from Software Engineer Graduate. I worked as a Software Engineer in IT Ind
 <span><b><center>PostgreSQL</center></b></span> <br/>
 <img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"> 
 </td>   
-</tr>
 
 <td align="center" width="25%">
-<span><b><center>PostgreSQL</center></b></span> <br/>
+<span><b><center>Django Rest Framework</center></b></span> <br/>
 <img height=75px src="https://www.django-rest-framework.org/img/logo.png"> 
-</td>   
-</tr>
+</td>
 
 <td align="center" width="25%">
-<span><b><center>PostgreSQL</center></b></span> <br/>
+<span><b><center>Robot Framework</center></b></span> <br/>
 <img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot-framework-logo.png/375px-Robot-framework-logo.png"> 
 </td>   
 </tr>
